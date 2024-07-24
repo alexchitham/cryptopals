@@ -1,0 +1,12 @@
+
+
+
+ciphertext = 60 in length ------------ 0-59 indices
+key = 29 in length
+
+blocks[] = 3, 3, 2, 2, 2, ... 2, 2, 2
+
+           0  1  2  3 ..            28
+           29 30 31 32 ..           57
+           58 59 
+           
